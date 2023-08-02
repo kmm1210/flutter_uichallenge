@@ -18,7 +18,7 @@
     ex> flutter create my_app
 4. 생성된 프로젝트로 이동  
     ex> cd my_app/  
-5. VSCode로 열기
+5. VSCode로 열기  
     ex> code .
 
 <br>
