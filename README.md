@@ -38,5 +38,5 @@ VSCode > 왼쪽 manag버튼 > Commnand Palette > Open User Setting(JSON) 열기 
 <br>
 
 ### 완성화면
-<img src="assets/uiChallenge.png" width="320" height="670">
-<img src="assets/uiChallenge.gif" width="320" height="670">
+<a><img src="assets/uiChallenge.png" width="320" height="670"></a>
+<a><img src="assets/uiChallenge.gif" width="320" height="670"></a>
