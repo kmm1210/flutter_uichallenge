@@ -34,3 +34,9 @@ VSCode > 왼쪽 manag버튼 > Commnand Palette > Open User Setting(JSON) 열기 
 ~~~
 - source.fixAll 저장시 자동으로 const를 붙여준다  
 - previewFlutterUiGuides : 들여쓰기의 안내선을 표시해준다(VSCode 재시작시 적용됨)  
+
+<br>
+
+### 완성화면
+<img src="assets/uiChallenge.png" width="320" height="670">
+<img src="assets/uiChallenge.gif" width="320" height="670">
